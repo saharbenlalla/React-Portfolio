@@ -24,10 +24,10 @@ code {
 }
 
 :root{
-  --color-bg: #1f1f38;
-  --color-bg-variant: #2c2c6c;
-  --color-primary: #4db5ff;
-  --color-primary-variant: rgba(77, 181, 255, .4);
+  --color-bg: #8773b3;
+  --color-bg-variant: #C689C6;
+  --color-primary: #FFABE1;
+  --color-primary-variant: #FFE6F7;
   --color-white: #fff;
   --color-light: rgba(255, 255, 255, .6);
 

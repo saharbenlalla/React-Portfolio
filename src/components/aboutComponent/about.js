@@ -1,5 +1,5 @@
 import "./about.css";
-import ME from "../../assets/user7.jpg";
+import ME from "../../assets/images/1677345932011__2_-removebg-preview.png";
 import { TbAward } from "react-icons/tb";
 import { FiUsers } from "react-icons/fi";
 import { AiOutlineFolderOpen } from "react-icons/ai";

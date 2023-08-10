@@ -4,9 +4,9 @@ import { IoLogoWhatsapp } from 'react-icons/io'
 function headerSocials() {
   return (
     <div className="header__socials">
-      <a href="#linkoflinkedin" target="_blank"><BsLinkedin/></a>
-      <a href="#linkofmesenger" target="_blank"><BsMessenger/></a>
-      <a href="#linkofwhatssup" target="_blank"><IoLogoWhatsapp/></a>
+      <a href="https://www.linkedin.com/in/sahar-benlalla-4630a5224/"><BsLinkedin/></a>
+      <a href="https://www.facebook.com/amira.dalloula.731/"><BsMessenger/></a>
+      <a href="https://api.whatsapp.com/send?phone=21654475773"><IoLogoWhatsapp/></a>
     </div>
   )
 }
